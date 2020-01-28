@@ -1,0 +1,52 @@
+h1#title{
+  text-align: center
+}
+
+/* .card{
+  border: 1px solid blue;
+
+} */
+
+
+  .puzzle {
+    background-image:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsupport.kickofflabs.com%2Fwp-content%2Fuploads%2F2016%2F06%2F500px.png&f=1&nofb=1' );
+    width:166.6px;
+    height:166.6px;
+ }
+ .puzzle-piece-1{
+  background-position: 0% 0%;
+  display: inline-block;
+
+}
+.puzzle-piece-2{
+  background-position: 50% 0%;
+  display: inline-block;
+}
+
+
+.puzzle-piece-3{
+  background-position: 100% 0%;
+  display: inline-block;
+}
+.puzzle-piece-4{
+  background-position: 0% 50%;
+  display: inline-block;
+}
+.puzzle-piece-5{
+  background-position: 50% 50%;
+  display: inline-block;
+}
+.puzzle-piece-6{
+  background-position: 100% 50%;
+  display: inline-block;
+}
+.puzzle-piece-7{
+  background-position: 0% 100%;
+  display: inline-block;
+}.puzzle-piece-8{
+  background-position: 50% 100%;
+  display: inline-block;
+}.puzzle-piece-9{
+  background-position: 100% 100%;
+  display: inline-block;
+}
